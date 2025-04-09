@@ -3,3 +3,4 @@ requests
 uvicorn
 pydantic
 python-multipart
+imgurpython
